@@ -1,0 +1,794 @@
+<ItemPartAppearance Guid="35d265f2-404b-e8cb-f1b3-d35eb3cd7be8">
+    <Name>DA3_DLC1/Equipment/Appearances/Armors/Heavy/dlc1_part_app_armor_heavy_last_inquisitor</Name>
+    <PartType>[Ebx] DA3/Equipment/Crafting/PartTypes/part_type_armor_chest_heavy [ab11a21f-544a-4506-84bb-a17a3428b3cc]</PartType>
+    <OverridesRuntime Count="31">
+        <member Index="0">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x5c156666</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqHvyMale_Armor1 [6858d851-f2b1-465d-885f-344effb1f70a]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>4</PartyMemberID>
+                        <Gender>0</Gender>
+                        <PartyMemberClassTypeID>4</PartyMemberClassTypeID>
+                        <ItemRaceID>0</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="1">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0xa247125b</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqFemale_Armor1 [a8e48a2e-c164-47ce-b5f9-8d807730a930]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>1</PartyMemberID>
+                        <Gender>0</Gender>
+                        <PartyMemberClassTypeID>4</PartyMemberClassTypeID>
+                        <ItemRaceID>0</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="2">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x5c156666</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqMale_Armor1 [ed6e6ba8-5756-4c51-b502-50b884d9eb31]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>5</PartyMemberID>
+                        <Gender>0</Gender>
+                        <PartyMemberClassTypeID>4</PartyMemberClassTypeID>
+                        <ItemRaceID>0</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="3">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x5c156666</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqMale_Armor1 [ed6e6ba8-5756-4c51-b502-50b884d9eb31]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>3</PartyMemberID>
+                        <Gender>0</Gender>
+                        <PartyMemberClassTypeID>4</PartyMemberClassTypeID>
+                        <ItemRaceID>0</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="4">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0xa247125b</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqFemale_Armor1 [a8e48a2e-c164-47ce-b5f9-8d807730a930]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>6</PartyMemberID>
+                        <Gender>0</Gender>
+                        <PartyMemberClassTypeID>4</PartyMemberClassTypeID>
+                        <ItemRaceID>0</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="5">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0xa247125b</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqFemale_Armor1 [a8e48a2e-c164-47ce-b5f9-8d807730a930]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>2</PartyMemberID>
+                        <Gender>0</Gender>
+                        <PartyMemberClassTypeID>4</PartyMemberClassTypeID>
+                        <ItemRaceID>0</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="6">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x49f8d1e3</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqMale_Armor1 [ed6e6ba8-5756-4c51-b502-50b884d9eb31]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>7</PartyMemberID>
+                        <Gender>0</Gender>
+                        <PartyMemberClassTypeID>4</PartyMemberClassTypeID>
+                        <ItemRaceID>0</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="7">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x69b82e26</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqHvyMale_Armor1 [6858d851-f2b1-465d-885f-344effb1f70a]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>9</PartyMemberID>
+                        <Gender>0</Gender>
+                        <PartyMemberClassTypeID>4</PartyMemberClassTypeID>
+                        <ItemRaceID>0</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="8">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x83113736</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqMale_Armor1 [ed6e6ba8-5756-4c51-b502-50b884d9eb31]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>8</PartyMemberID>
+                        <Gender>0</Gender>
+                        <PartyMemberClassTypeID>4</PartyMemberClassTypeID>
+                        <ItemRaceID>0</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="9">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0xa247125b</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqFemale_Armor1 [a8e48a2e-c164-47ce-b5f9-8d807730a930]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>2</Gender>
+                        <PartyMemberClassTypeID>2</PartyMemberClassTypeID>
+                        <ItemRaceID>0</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="10">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x5c156666</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqMale_Armor1 [ed6e6ba8-5756-4c51-b502-50b884d9eb31]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>1</Gender>
+                        <PartyMemberClassTypeID>2</PartyMemberClassTypeID>
+                        <ItemRaceID>0</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="11">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x4f7df9c2</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqFemale_Armor1 [a8e48a2e-c164-47ce-b5f9-8d807730a930]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>2</Gender>
+                        <PartyMemberClassTypeID>2</PartyMemberClassTypeID>
+                        <ItemRaceID>1</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="12">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0xc5b4d003</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqFemale_Armor1 [a8e48a2e-c164-47ce-b5f9-8d807730a930]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>2</Gender>
+                        <PartyMemberClassTypeID>2</PartyMemberClassTypeID>
+                        <ItemRaceID>2</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="13">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x639a74c7</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqFemale_Armor1 [a8e48a2e-c164-47ce-b5f9-8d807730a930]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>2</Gender>
+                        <PartyMemberClassTypeID>2</PartyMemberClassTypeID>
+                        <ItemRaceID>3</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="14">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x49f8d1e3</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqMale_Armor1 [ed6e6ba8-5756-4c51-b502-50b884d9eb31]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>1</Gender>
+                        <PartyMemberClassTypeID>2</PartyMemberClassTypeID>
+                        <ItemRaceID>1</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="15">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x83113736</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqMale_Armor1 [ed6e6ba8-5756-4c51-b502-50b884d9eb31]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>1</Gender>
+                        <PartyMemberClassTypeID>2</PartyMemberClassTypeID>
+                        <ItemRaceID>2</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="16">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x69b82e26</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqHvyMale_Armor1 [6858d851-f2b1-465d-885f-344effb1f70a]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>1</Gender>
+                        <PartyMemberClassTypeID>2</PartyMemberClassTypeID>
+                        <ItemRaceID>3</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="17">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0xc5b4d003</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqFemale_Armor1 [a8e48a2e-c164-47ce-b5f9-8d807730a930]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>2</Gender>
+                        <PartyMemberClassTypeID>1</PartyMemberClassTypeID>
+                        <ItemRaceID>2</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="18">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x4f7df9c2</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqFemale_Armor1 [a8e48a2e-c164-47ce-b5f9-8d807730a930]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>2</Gender>
+                        <PartyMemberClassTypeID>1</PartyMemberClassTypeID>
+                        <ItemRaceID>1</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="19">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0xa247125b</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqFemale_Armor1 [a8e48a2e-c164-47ce-b5f9-8d807730a930]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>2</Gender>
+                        <PartyMemberClassTypeID>1</PartyMemberClassTypeID>
+                        <ItemRaceID>0</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="20">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x639a74c7</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqFemale_Armor1 [a8e48a2e-c164-47ce-b5f9-8d807730a930]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>2</Gender>
+                        <PartyMemberClassTypeID>1</PartyMemberClassTypeID>
+                        <ItemRaceID>3</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="21">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x83113736</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqMale_Armor1 [ed6e6ba8-5756-4c51-b502-50b884d9eb31]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>1</Gender>
+                        <PartyMemberClassTypeID>1</PartyMemberClassTypeID>
+                        <ItemRaceID>2</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="22">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x49f8d1e3</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqMale_Armor1 [ed6e6ba8-5756-4c51-b502-50b884d9eb31]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>1</Gender>
+                        <PartyMemberClassTypeID>1</PartyMemberClassTypeID>
+                        <ItemRaceID>1</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="23">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x5c156666</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqMale_Armor1 [ed6e6ba8-5756-4c51-b502-50b884d9eb31]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>1</Gender>
+                        <PartyMemberClassTypeID>1</PartyMemberClassTypeID>
+                        <ItemRaceID>0</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="24">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x69b82e26</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqHvyMale_Armor1 [6858d851-f2b1-465d-885f-344effb1f70a]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>1</Gender>
+                        <PartyMemberClassTypeID>1</PartyMemberClassTypeID>
+                        <ItemRaceID>3</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="25">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x4f7df9c2</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqFemale_Armor1 [a8e48a2e-c164-47ce-b5f9-8d807730a930]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>2</Gender>
+                        <PartyMemberClassTypeID>3</PartyMemberClassTypeID>
+                        <ItemRaceID>1</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="26">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0xa247125b</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqFemale_Armor1 [a8e48a2e-c164-47ce-b5f9-8d807730a930]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>2</Gender>
+                        <PartyMemberClassTypeID>3</PartyMemberClassTypeID>
+                        <ItemRaceID>0</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="27">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x639a74c7</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqFemale_Armor1 [a8e48a2e-c164-47ce-b5f9-8d807730a930]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>2</Gender>
+                        <PartyMemberClassTypeID>3</PartyMemberClassTypeID>
+                        <ItemRaceID>3</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="28">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x49f8d1e3</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqMale_Armor1 [ed6e6ba8-5756-4c51-b502-50b884d9eb31]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>1</Gender>
+                        <PartyMemberClassTypeID>3</PartyMemberClassTypeID>
+                        <ItemRaceID>1</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="29">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x5c156666</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqMale_Armor1 [ed6e6ba8-5756-4c51-b502-50b884d9eb31]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>1</Gender>
+                        <PartyMemberClassTypeID>3</PartyMemberClassTypeID>
+                        <ItemRaceID>0</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+        <member Index="30">
+            <ItemPartPartyMemberRuntimeAppearance>
+                <AppearanceRuntimeRef>
+                    <ItemBlueprintRuntimeRef>
+                        <DelayLoadBundleHash>0x69b82e26</DelayLoadBundleHash>
+                        <Material>
+                            <MaterialDecl>
+                                <Packed>0x00008000</Packed>
+                            </MaterialDecl>
+                        </Material>
+                        <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqHvyMale_Armor1 [6858d851-f2b1-465d-885f-344effb1f70a]</Sound>
+                        <BodyFallSound>nullptr</BodyFallSound>
+                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                    </ItemBlueprintRuntimeRef>
+                </AppearanceRuntimeRef>
+                <AppearanceID>
+                    <ItemPartyMemberAppearanceIDStruct>
+                        <PartyMemberID>0</PartyMemberID>
+                        <Gender>1</Gender>
+                        <PartyMemberClassTypeID>3</PartyMemberClassTypeID>
+                        <ItemRaceID>3</ItemRaceID>
+                    </ItemPartyMemberAppearanceIDStruct>
+                </AppearanceID>
+            </ItemPartPartyMemberRuntimeAppearance>
+        </member>
+    </OverridesRuntime>
+    <DefaultRuntimeRef>
+        <ItemBlueprintRuntimeRef>
+            <DelayLoadBundleHash>0x00000000</DelayLoadBundleHash>
+            <Material>
+                <MaterialDecl>
+                    <Packed>0x00008000</Packed>
+                </MaterialDecl>
+            </Material>
+            <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqMale_Armor1 [ed6e6ba8-5756-4c51-b502-50b884d9eb31]</Sound>
+            <BodyFallSound>nullptr</BodyFallSound>
+            <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+        </ItemBlueprintRuntimeRef>
+    </DefaultRuntimeRef>
+</ItemPartAppearance>
