@@ -589,7 +589,13 @@
                         </Material>
                         <Sound>[Ebx] DA3/Sound/Patches/Foley/Humanoid/Movement/Config/Party/Fly_Procedural_Movement_InqMale_Armor1 [ed6e6ba8-5756-4c51-b502-50b884d9eb31]</Sound>
                         <BodyFallSound>nullptr</BodyFallSound>
-                        <OnDisplayTimelines Count="0"></OnDisplayTimelines>
+                        <OnDisplayTimelines Count="1">
+                            <member Index="0">
+                                <BWTimelineReference>
+                                    <Timeline>[Ebx] DA3/Animation/set_torso_sockets_to_armor_thickness_50 [a5beed86-0d81-4289-abca-e38c9cf1d777]</Timeline>
+                                </BWTimelineReference>
+                            </member>
+                        </OnDisplayTimelines>
                     </ItemBlueprintRuntimeRef>
                 </AppearanceRuntimeRef>
                 <AppearanceID>
