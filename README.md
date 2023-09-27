@@ -29,16 +29,16 @@ Where each `ItemPartPartyMemberRuntimeAppearance` defines which appearance armor
 
 PartyMemberID values:
 
-1. Inquisitor
-2. Cassandra
-3. Sera
-4. Dorian
-5. Blackwall
-6. Cole
-7. Vivienne
-8. Solas
-9. Varric
-10. Ironbull
+0. Inquisitor
+1. Cassandra
+2. Sera
+3. Dorian
+4. Blackwall
+5. Cole
+6. Vivienne
+7. Solas
+8. Varric
+9. Ironbull
 
 Gender values:
 
